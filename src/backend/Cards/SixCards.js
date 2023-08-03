@@ -1,0 +1,8 @@
+export const SixCards = [
+    {'image':'https://img.cooe.in/media/unnamed.webp' , 'title':'Special title treatment' , 'text':'■Challenge players worldwide in multiplayer! You can race against up to seven other players, whether they’re registered as in-game friends' },
+    {'image':'https://img.cooe.in/media/bts.webp' , 'title':'BTS WORLD' , 'text':'It’s 2012－and you work at Big Hit. As BTSit’ss manager, their debut is up to you! Is this the beginning of your success story? Will you be able to go back to your own world?' },
+    {'image':'https://img.cooe.in/media/unnamed_gck4Dnp.webp' , 'title':'Harry Potter: Wizards Unite' , 'text':'A magical calamity has befallen the wizarding world and it’s up to you to answer the call to help the Ministry of Magic restore balance!' },
+    {'image':'https://img.cooe.in/media/unnamed_nx8P0yl.webp' , 'title':'Call of Duty®: Mobile - Garena' , 'text':'Call of Duty®: Mobile - Garena,s latest update brings you the new revolutionary customization feature and many more cool additions!' },
+    {'image':'https://img.cooe.in/media/unnamed_d8AyUvg.webp' , 'title':'State of Survival: Survive the Zombie Apocalypse' , 'text':'been six months since the zombie apocalypse began The virus has infected the city Six months of terror horror survival and fighting against zombies.' },
+    {'image':'https://img.cooe.in/media/unnamed_dd2Rtdr.webp' , 'title':'Rise of Empires: Ice and Fire' , 'text':'Real Time Nation vs. Nation medieval strategy war game. Join now! Train your troops and go to war! Rise of Empires is a Massive Multi-Player, Real-Time strategy war game.' }
+]
